@@ -1,0 +1,40 @@
+
+
+p {
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: x-large;
+    font-weight: normal;
+    color:rgb(0, 145, 255)
+}
+li {
+  font-family:Arial, Helvetica, sans-serif;
+    font-size: larger;
+    color: rgb(5, 101, 202);
+    font-weight: normal;
+}
+.bold {
+    font-weight:bolder
+}
+.bigger {
+    font-size:xx-large
+}
+.big {
+    font-size: x-large;
+}
+.bgimage {
+    background-color: rgb(228, 244, 252);
+}
+
+.smallDiv {
+    font-size: smaller;
+}
+.centerDiv {text-align: center;}
+
+.divIS {
+    font-size:xx-small;
+    color: black;
+    text-align: center;
+}
+body {
+    text-align: center;
+}
